@@ -1,0 +1,9 @@
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\obj\Debug\ChallenceTakingNotes.csprojResolveAssemblyReference.cache
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\obj\Debug\ChallenceTakingNotes.csproj.CoreCompileInputs.cache
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\bin\ChallenceTakingNotes.dll.config
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\bin\ChallenceTakingNotes.dll
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\bin\ChallenceTakingNotes.pdb
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\obj\Debug\ChallenceTakingNotes.dll
+c:\users\inikk\source\repos\ChallenceTakingNotes\ChallenceTakingNotes\obj\Debug\ChallenceTakingNotes.pdb
